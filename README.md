@@ -1,6 +1,8 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
-## 🚩 Challenge 5: 👛 Multisig Wallet
+## 🚩 Challenge 7: 👛 Multisig Wallet by SpaceDev 
+
+![image](https://user-images.githubusercontent.com/81698760/232161347-2cff8ffb-6071-416e-9a6d-1349115fd076.png)
 
 
 ### 🏃‍♀️ Quick Start
@@ -9,11 +11,10 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 
 ```bash
-git clone https://github.com/scaffold-eth/scaffold-eth-typescript-challenges challenge-5-multi-sig
+git clone https://github.com/SpaceUY/se-challenge-7-multisig.git
 
-cd challenge-5-multi-sig
+cd se-challenge-7-multisig
 
-git checkout challenge-5-multisig
 ```
 
 ```bash
@@ -31,7 +32,7 @@ yarn start
 > in a second terminal window:
 
 ```bash
-cd scaffold-eth
+cd se-challenge-7-multisig
 yarn chain
 
 ```
